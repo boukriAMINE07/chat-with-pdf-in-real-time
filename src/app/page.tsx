@@ -18,7 +18,7 @@ export default function Home() {
                     Chat with your <span className="text-blue-600">documents</span> in real-time.
                 </h1>
                 <p className="mt-5 max-w-prose text-zinc-700 sm:text-lg">
-                    Quill allows you to chat with your documents in real-time. It's like Google Docs, but with a chat
+                    Quill allows you to chat with your documents in real-time. It is like Google Docs, but with a chat
                     window.
                 </p>
                 <Link className={buttonVariants({size: 'lg', className: 'mt-5'})} href="/dashboard" target="_blank">
